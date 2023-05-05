@@ -1,6 +1,6 @@
 # Portfolio
 
-![image](https://user-images.githubusercontent.com/104744741/235244083-3f163921-befc-43a5-af03-6d29a4dcaaee.png)
+![image](https://user-images.githubusercontent.com/104744741/236493384-e0860ed5-2d1b-441d-a277-960ecd3433c0.png)
 
 ![image](https://user-images.githubusercontent.com/104744741/235244161-4e7fa461-ac0e-4f6e-99e0-f2c875d73de3.png)
 
